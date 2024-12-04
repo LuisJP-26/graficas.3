@@ -1,0 +1,7 @@
+Instalar Django
+Instalar git (64 Bits)
+Instalar Gitbash
+Crear una cuenta en GitHub
+Crear un nuevo repositorio, en la cuenta de GitHub
+Instalar commits
+Descargar los charts
